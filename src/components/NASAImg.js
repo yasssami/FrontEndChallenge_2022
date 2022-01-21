@@ -1,7 +1,6 @@
 import React from "react";
 import {useState,useEffect} from 'react';
 import './LikeButton.js';
-import LikeButton from "./LikeButton.js";
 export default function NASAimg(){
 const [photoData,setPhotoData]=useState({});
      useEffect(()=>{
