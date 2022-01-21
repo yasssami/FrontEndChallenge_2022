@@ -6,7 +6,7 @@ const [photoData,setPhotoData]=useState({});
      useEffect(()=>{
       fetchPhoto();
        async function fetchPhoto(){
-         const res=await fetch('https://api.nasa.gov/planetary/apod?start_date=2021-12-24&end_date=2022-01-21&api_key=GgeuqVMnrrtBErYnh8YhtfJ2QFH577O6wIT1QlJI');
+         const res=await fetch('https://api.nasa.gov/planetary/apod?start_date=2021-12-31&end_date=2022-01-21&api_key=GgeuqVMnrrtBErYnh8YhtfJ2QFH577O6wIT1QlJI');
          const data=await res.json();
          setPhotoData(data[Math.floor(Math.random()*data.length)]);
        }
