@@ -2,9 +2,7 @@
 **Shopify 2022 Summer Frontend Intern Challenge**
 =================================================
 
-Hello! This is an Instagram Clone project designed to display the NASA APOD with Like/Unlike functionality that I made as part 
-
-of my application for this summer's Frontend Engineer Shopify internship.
+Hello! This is an Instagram Clone project designed to display the NASA APOD with Like/Unlike functionality that I made as part of my application for this summer's Frontend Engineer Shopify internship.
 
 **How to Use**
 --------------
