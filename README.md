@@ -17,6 +17,7 @@ Hello! This is an Instagram Clone project designed to display the NASA APOD with
 This project was built using JavaScript, CSS and React *(Material-UI, create-react-app)* and performs the following:
 
 * Random APOD entries from the NASA archive.
+* New entry distribution upon refreshing.
 * Instagram-like layout with posts containing the APOD image, date, as well as description.
 * Heart-shaped, animated button able to perform Like/Unlike actions.
 * Styled font & app icon.
