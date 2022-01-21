@@ -1,0 +1,19 @@
+.NASAImg{
+    width:100%;
+    object-fit:contain;
+    border-top:1px solid lightgray;
+    border-bottom:1px solid lightgray;
+}
+.post__text{
+    font-weight: normal;
+    padding:20px;
+    text-align: left;
+    border-bottom:1px solid lightgray;
+}
+.post__caption{
+    font-family:'coolvetica';
+    font-size: medium;
+    font-weight:normal;
+    padding:15px;
+    max-height: 700px;
+}
