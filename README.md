@@ -23,5 +23,4 @@ This project was built using JavaScript, CSS and React *(Material-UI, create-rea
 
 **DEMO**
 ========
-<iframe width="560" height="315"
-src="https://streamable.com/1pdxax" frameborder="0" allow="autoplay;encrypted-media" allowfullscreen></iframe>
+
